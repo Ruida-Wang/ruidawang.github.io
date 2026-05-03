@@ -36,6 +36,8 @@ You can find my publications and citation statistics on my
 
 # 🔥 News
 
+Decoupled TFHE-type Functional Bootstrapping, Zhihao Li, Xuan Shen,  Xianhui Lu, Ruida Wang, Yuan Zhao, Zhiwei Wang, CCS26
+
 ---
 
 # 📝 Selected Publications
@@ -50,11 +52,12 @@ You can find my publications and citation statistics on my
 
 
 **Phalanx: An FHE-Friendly SNARK for Verifiable Computation on Encrypted Data**
-Xinxuan Zhang, **Ruida Wang***, Zeyu Liu, Binwu Xiang, Yi Deng*, Xianhui Lu*
+Xinxuan Zhang, ** Ruida Wang* **, Zeyu Liu, Binwu Xiang, Yi Deng*, Xianhui Lu*
 [**ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025**](
 https://dl.acm.org/doi/10.1145/3719027.3765226)<span class='show_paper_citations' data='hpoTTfgAAAAJ:WbkHhVStYXYC'></span>  
 
-
+**Decoupled TFHE-type Functional Bootstrapping**
+Zhihao Li, Xuan Shen,  Xianhui Lu*, **Ruida Wang**, Yuan Zhao, Zhiwei Wang
 
 # 🎖 Honors and Awards
 
