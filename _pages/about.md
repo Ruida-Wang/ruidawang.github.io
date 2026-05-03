@@ -42,13 +42,11 @@ You can find my publications and citation statistics on my
 
 **Circuit Bootstrapping: Faster and Smaller** 
 **Ruida Wang**, Yundi Wen, Zhihao Li, Xianhui Lu*, Benqiang Wei, Kun Liu, Kunpeng Wang 
-[**Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT) • 2024**](
-https://link.springer.com/chapter/10.1007/978-3-031-58751-1_1)<span class='show_paper_citations' data='hpoTTfgAAAAJ:WbkHhVStYXYC'></span>  
+[**Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT) • 2024**](https://link.springer.com/chapter/10.1007/978-3-031-58723-8_12)<span class='show_paper_citations' data='hpoTTfgAAAAJ:WbkHhVStYXYC'></span>  
 
 **Refined TFHE Leveled Homomorphic Evaluation and Its Application**
 **Ruida Wang**, Jincheol Ha (co-first author), Xuan Shen, Xianhui Lu*, Chunling Chen, Kunpeng Wang, Jooyoung Lee*
-[**ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025**](
-https://dl.acm.org/doi/10.1145/3702112.3710189)<span class='show_paper_citations' data='hpoTTfgAAAAJ:KxtntwgDAa4C'></span>  
+[**ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025**](https://dl.acm.org/doi/abs/10.1145/3719027.3744873)<span class='show_paper_citations' data='hpoTTfgAAAAJ:KxtntwgDAa4C'></span>  
 
 
 **Phalanx: An FHE-Friendly SNARK for Verifiable Computation on Encrypted Data**
