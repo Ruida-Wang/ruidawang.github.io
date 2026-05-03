@@ -17,42 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m a Research Associate at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on Cryptography, with a particular emphasis on the theory, implementation and application of Fully Homomorphic Encryption **(FHE)**.
+
+You can find my publications and citation statistics on my  
+<a href='https://scholar.google.com/citations?user=hpoTTfgAAAAJ'>Google Scholar profile</a>, and view the current citation count via this badge:  
+<a href='https://scholar.google.com/citations?user=hpoTTfgAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
+
+---
+- My research focuses on Cryptography, with a particular emphasis on the theory, implementation and application of Fully Homomorphic Encryption (FHE).
+- I obtained my PhD degree in cybersecurity at IIE, CAS. 
+- Before coming to IIE, I obtained my Bachelor’s degree in Mathematics and Applied Mathematics at Taishan College, Shandong University.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Selected Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<!-- Tetris -->
+<div class='paper-box'>
+  <!-- 有配图时可启用 -->
+  <!--
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ePrint 2025</div>
+      <img src='images/500x300.png' alt="Tetris" width="100%">
+    </div>
+  </div>
+  -->
+  <div class='paper-box-text' markdown="1">
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tetris: Versatile TFHE LUT and Its Application to FHE Instruction Set Architecture**  
+*Ruida Wang, **Jikang Bai**, Xuan Shen, Xianhui Lu, Zhihao Li, Binwu Xiang, Zhiwei Wang, Hongyu Wang, Lutan Zhao, Kunpeng Wang*  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[**Paper (IACR ePrint 2025/1623)**](https://eprint.iacr.org/2025/1623)  
+<span class='show_paper_citations' data='TODO_REPLACE_TETRIS_ID'></span>  
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Circuit Bootstrapping: Faster and Smaller** 
+* **Ruida Wang**, Yundi Wen, Zhihao Li, Xianhui Lu*, Benqiang Wei, Kun Liu, Kunpeng Wang*
+[**Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT) • 2024**](
+https://link.springer.com/chapter/10.1007/978-3-031-58751-1_1)<span class='show_paper_citations' data='WbkHhVStYXYC'></span>  
+
+[2] Refined TFHE Leveled Homomorphic Evaluation and Its Application
+Ruida Wang, Jincheol Ha (co-first author), Xuan Shen, Xianhui Lu*, Chunling Chen, Kunpeng Wang, Jooyoung Lee*
+ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025
+https://dl.acm.org/doi/10.1145/3702112.3710189
+[3] Phalanx: An FHE-Friendly SNARK for Verifiable Computation on Encrypted Data
+Xinxuan Zhang, Ruida Wang*, Zeyu Liu, Binwu Xiang, Yi Deng*, Xianhui Lu*
+ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025
+https://dl.acm.org/doi/10.1145/3719027.3765226
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+---
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- I obtained my PhD degree in cybersecurity at IIE, CAS. 
+- Before coming to IIE, I obtained my Bachelor’s degree in Mathematics and Applied Mathematics at Taishan College, Shandong University.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🧪 Research Keywords
+
+**Fully Homomorphic Encryption (FHE)** · **TFHE / FHEW** · **Programmable Bootstrapping** · **Homomorphic LUTs** ·  
+**FHE Instruction Set Architecture (FHE-ISA)** · **Bootstrapping over Algebraic Structures** ·  
