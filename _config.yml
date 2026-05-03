@@ -25,8 +25,8 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Focusing on Cryptography especially Fully Homomorphic Encryption (FHE). "
   location         : "Beijing, China"
-  employer         : "Institute of Information Engineering, Chinese Academy of Sciences"
-  pubmed           : "State Key Laboratory of Cyberspace Security Defense"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hpoTTfgAAAAJ"
   email            : "wangruida@iie.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Ruida-Wang-2?ev=hdr_xprf"
