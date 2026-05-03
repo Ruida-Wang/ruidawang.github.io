@@ -48,7 +48,8 @@ https://link.springer.com/chapter/10.1007/978-3-031-58751-1_1)<span class='show_
 **Refined TFHE Leveled Homomorphic Evaluation and Its Application**
 **Ruida Wang**, Jincheol Ha (co-first author), Xuan Shen, Xianhui Lu*, Chunling Chen, Kunpeng Wang, Jooyoung Lee*
 [**ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025**](
-https://dl.acm.org/doi/10.1145/3702112.3710189)<span class='show_paper_citations' data='hpoTTfgAAAAJ:KxtntwgDAa4C
+https://dl.acm.org/doi/10.1145/3702112.3710189)<span class='show_paper_citations' data='hpoTTfgAAAAJ:KxtntwgDAa4C'></span>  
+
 
 **Phalanx: An FHE-Friendly SNARK for Verifiable Computation on Encrypted Data**
 Xinxuan Zhang, **Ruida Wang***, Zeyu Liu, Binwu Xiang, Yi Deng*, Xianhui Lu*
