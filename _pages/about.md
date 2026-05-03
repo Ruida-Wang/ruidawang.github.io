@@ -58,6 +58,7 @@ https://dl.acm.org/doi/10.1145/3719027.3765226)<span class='show_paper_citations
 
 **Decoupled TFHE-type Functional Bootstrapping**
 Zhihao Li, Xuan Shen,  Xianhui Lu*, **Ruida Wang**, Yuan Zhao, Zhiwei Wang
+**CCS2026**
 
 # 🎖 Honors and Awards
 
