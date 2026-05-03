@@ -40,38 +40,20 @@ You can find my publications and citation statistics on my
 
 # 📝 Selected Publications
 
-<!-- Tetris -->
-<div class='paper-box'>
-  <!-- 有配图时可启用 -->
-  <!--
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ePrint 2025</div>
-      <img src='images/500x300.png' alt="Tetris" width="100%">
-    </div>
-  </div>
-  -->
-  <div class='paper-box-text' markdown="1">
-
-**Tetris: Versatile TFHE LUT and Its Application to FHE Instruction Set Architecture**  
-*Ruida Wang, **Jikang Bai**, Xuan Shen, Xianhui Lu, Zhihao Li, Binwu Xiang, Zhiwei Wang, Hongyu Wang, Lutan Zhao, Kunpeng Wang*  
-
-[**Paper (IACR ePrint 2025/1623)**](https://eprint.iacr.org/2025/1623)  
-<span class='show_paper_citations' data='TODO_REPLACE_TETRIS_ID'></span>  
-
 **Circuit Bootstrapping: Faster and Smaller** 
-* **Ruida Wang**, Yundi Wen, Zhihao Li, Xianhui Lu*, Benqiang Wei, Kun Liu, Kunpeng Wang*
+**Ruida Wang**, Yundi Wen, Zhihao Li, Xianhui Lu*, Benqiang Wei, Kun Liu, Kunpeng Wang 
 [**Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT) • 2024**](
-https://link.springer.com/chapter/10.1007/978-3-031-58751-1_1)<span class='show_paper_citations' data='WbkHhVStYXYC'></span>  
+https://link.springer.com/chapter/10.1007/978-3-031-58751-1_1)<span class='show_paper_citations' data='hpoTTfgAAAAJ:WbkHhVStYXYC'></span>  
 
-[2] Refined TFHE Leveled Homomorphic Evaluation and Its Application
-Ruida Wang, Jincheol Ha (co-first author), Xuan Shen, Xianhui Lu*, Chunling Chen, Kunpeng Wang, Jooyoung Lee*
-ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025
-https://dl.acm.org/doi/10.1145/3702112.3710189
-[3] Phalanx: An FHE-Friendly SNARK for Verifiable Computation on Encrypted Data
-Xinxuan Zhang, Ruida Wang*, Zeyu Liu, Binwu Xiang, Yi Deng*, Xianhui Lu*
-ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025
-https://dl.acm.org/doi/10.1145/3719027.3765226
+**Refined TFHE Leveled Homomorphic Evaluation and Its Application**
+**Ruida Wang**, Jincheol Ha (co-first author), Xuan Shen, Xianhui Lu*, Chunling Chen, Kunpeng Wang, Jooyoung Lee*
+[**ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025**](
+https://dl.acm.org/doi/10.1145/3702112.3710189)
+
+**Phalanx: An FHE-Friendly SNARK for Verifiable Computation on Encrypted Data**
+Xinxuan Zhang, **Ruida Wang***, Zeyu Liu, Binwu Xiang, Yi Deng*, Xianhui Lu*
+[**ACM SIGSAC Conference on Computer and Communications Security (CCS) • 2025**](
+https://dl.acm.org/doi/10.1145/3719027.3765226)
 
 
 # 🎖 Honors and Awards
